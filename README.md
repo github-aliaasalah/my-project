@@ -1,5 +1,5 @@
 # my-project
-for school my-project
+chocolate sales
 
 
 ## project nots
